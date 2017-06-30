@@ -1,5 +1,6 @@
 jaja
 master
+kd
 km
 auto
 paja
